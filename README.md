@@ -27,13 +27,13 @@ The following charts help visualize task progress and structure. These images ar
 
 This pie chart displays the ratio of completed versus pending tasks.
 
-![Task Completion](charts/completion_status.png)
+![Task Completion](charts/priority_distribution.png)
 
 ### 2. Task Priority Distribution
 
 This bar chart shows how tasks are distributed based on priority (Low, Medium, High).
 
-![Priority Distribution](charts/priority_distribution.png)
+![Priority Distribution](charts/completion_status.png)
 
 ---
 
