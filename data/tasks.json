@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Complete Python Project",
+        "description": "Finish the CLI task manager project",
+        "due_date": "2025-07-24",
+        "priority": "High",
+        "completed": false
+    },
+    {
+        "title": "Read Data Science Book",
+        "description": "Read chapters 3 to 5",
+        "due_date": "2025-07-25",
+        "priority": "Medium",
+        "completed": false
+    },
+    {
+        "title": "Pay Internet Bill",
+        "description": "Monthly payment due",
+        "due_date": "2025-07-20",
+        "priority": "High",
+        "completed": true
+    },
+    {
+        "title": "Team Meeting",
+        "description": "Sync up with the remote team",
+        "due_date": "2025-07-23",
+        "priority": "Low",
+        "completed": true
+    },
+    {
+        "title": "Workout",
+        "description": "Gym session at 6 PM",
+        "due_date": "2025-07-24",
+        "priority": "Medium",
+        "completed": false
+    },
+    {
+        "title": "Submit Expense Report",
+        "description": "For July travel reimbursements",
+        "due_date": "2025-07-21",
+        "priority": "High",
+        "completed": true
+    },
+    {
+        "title": "Buy Groceries",
+        "description": "Milk, eggs, bread, fruits",
+        "due_date": "2025-07-23",
+        "priority": "Low",
+        "completed": false
+    }
+]

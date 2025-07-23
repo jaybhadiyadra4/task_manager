@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+
+# Ignore PyCharm/IDE settings
+.idea/
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
